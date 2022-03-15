@@ -25,4 +25,5 @@ public class BodyParts : MonoBehaviour
     {
         iconheart.color = new Color(1, 1, 1, 1);
     }
+
 }
